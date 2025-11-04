@@ -12,3 +12,11 @@ pandas
 numpy
 plotly
 aiohttp
+
+streamlit
+opencv-python-headless
+numpy
+pandas
+ultralytics
+pillow
+xlsxwriter
