@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+Pillow
+opencv-python
+scikit-learn
+
+
+streamlit
+pandas
+numpy
+plotly
+aiohttp
